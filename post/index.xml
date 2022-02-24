@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 阿尼的家</title>
+    <link>https://puddinggo.github.io/post/</link>
+    <description>Recent content in Posts on 阿尼的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://puddinggo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>戰勝讀寫障礙&lt;讀後心得一&gt;</title>
+      <link>https://puddinggo.github.io/post/placeholder-text/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/placeholder-text/</guid>
+      <description>
+        
+          
+            閱讀與書寫為人類近代的成就(約5000年)。當閱讀者具有音素覺識(phonemic awareness)後，須將印刷文字(reading code)轉換為語音代碼(phonetic code)，才能理解印刷文字的意義。
+  語言階層由下至上:phonetic、semantic、syntax、discourse
+    讀寫障礙並非語言全面的缺陷，是語音模組(phonologic module)的缺陷，表現出的命名錯誤是對語音的困惑，非缺乏知識。
+  缺乏辨識字詞內部聲音結構的能力，可能影響拼字能力、檢索字詞、字的發音清晰度和對事實的記憶。語音缺陷阻礙了解碼，然後影響字詞辨識，故一般智力兒童會以較高階層能力思考上下文關係推理語意。缺陷的解碼能力常被概念型成、推理、批判性思考、字彙、問題解決、常識、理解等相較優勢的能力包覆著。故當細節與相關概念或理論架構不一致時，對於讀寫障礙者來說會較困難
+    讀寫障礙者知道一個訊息後，須快速檢索並使用口語回答，很容易會提取出音素相似的詞，但若給予足夠時間回應，則有時間使用策略檢索要表達的資訊。
+  兒童入學前經驗練習影響幾年後的閱讀能力。
+  學校教育中，會將兒童的閱讀及音素覺察力互相加強。
+  大多數讀寫障礙兒童至少要等到小學三年級才被診斷。在青少年及成人族群也有未曾被診斷的。閱讀障礙的女孩較男孩不易立即鑑定，當女孩被鑑定為閱讀障礙時，大多時候已經很晚了。可能因不同性別所表現出的行為特質有關?
+  在中學生中，音素覺識仍是正確或快速讀字能力的最佳指標。
+  研究中顯示弱讀者在協助下(可能是有經驗或無經驗的協助):弱讀者仍然持續是弱讀者，雖然能力隨著時間是有進步的，但會與同儕能力有差距。
+  閱讀書籍:戰勝讀寫障礙
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Using Notices</title>
+      <link>https://puddinggo.github.io/post/notices/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/notices/</guid>
+      <description>
+        
+          
+            The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.
+To create a notice on a page, you can use the notice shortcode.
+You use the notice shortcode, with the first parameter being one of note, info, tip, and warning. Then add a title for your note in quotes as the second parameter. The inner body of the note can be whatever markdown you want to create.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>https://puddinggo.github.io/post/markdown-syntax.pt/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/markdown-syntax.pt/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Artigo original: https://puddinggo.github.io/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://puddinggo.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/markdown-syntax/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://puddinggo.github.io/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/rich-content/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://puddinggo.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/math-typesetting/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://puddinggo.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://puddinggo.github.io/post/emoji-support/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
