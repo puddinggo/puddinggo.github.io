@@ -3,27 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://puddinggo.github.io/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/post/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://puddinggo.github.io/post/placeholder-text/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <loc>https://puddinggo.github.io/post/reading-note3/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/post/reading-note2/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/%E6%9B%B8%E5%AF%AB/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/%E8%AE%80%E5%AF%AB%E9%9A%9C%E7%A4%99/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/%E9%96%B1%E8%AE%80/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/post/reading-note1/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/about/</loc>
@@ -106,7 +112,5 @@
   </url><url>
     <loc>https://puddinggo.github.io/about.pt/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://puddinggo.github.io/tags/index/</loc>
   </url>
 </urlset>
