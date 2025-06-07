@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://puddinggo.github.io/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/categories/</loc>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/post/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/tags/tag_name1/</loc>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/tags/tag_name2/</loc>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/categories/technology/</loc>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/post/thinking-solo/</loc>
+    <lastmod>2025-06-07T20:54:24+08:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/tags/journey/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/journey/journey1/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/categories/journeyjourneyjourneyjourney/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://puddinggo.github.io/journey/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://puddinggo.github.io/tags/%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
@@ -277,8 +304,6 @@
   </url><url>
     <loc>https://puddinggo.github.io/about.pt/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://puddinggo.github.io/categories/</loc>
   </url><url>
     <loc>https://puddinggo.github.io/series/</loc>
   </url>
